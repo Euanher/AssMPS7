@@ -1,0 +1,17 @@
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.AssemblyInfoInputs.cache
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.AssemblyInfo.cs
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.csproj.CoreCompileInputs.cache
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\AssMPS7.deps.json
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\AssMPS7.dll
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\ref\AssMPS7.dll
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\AssMPS7.pdb
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.csproj.CopyComplete
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.dll
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\ref\AssMPS7.dll
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.pdb
