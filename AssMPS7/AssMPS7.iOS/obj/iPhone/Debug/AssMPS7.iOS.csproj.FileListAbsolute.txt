@@ -56,4 +56,3 @@ C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.i
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.iOS\obj\iPhone\Debug\AssMPS7.iOS.csproj.CopyComplete
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.iOS\obj\iPhone\Debug\AssMPS7.iOS.exe
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.iOS\obj\iPhone\Debug\AssMPS7.iOS.pdb
-C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.iOS\obj\iPhone\Debug\build-signature\signature

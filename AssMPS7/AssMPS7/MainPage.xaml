@@ -4,16 +4,41 @@
              x:Class="AssMPS7.MainPage">
 
     <Frame BorderColor="Green"
-               BackgroundColor="Green"
-               CornerRadius="5"
-               Padding="8">
+               Background="Green"
+               CornerRadius="6"
+               Padding="30">
         <StackLayout>
-        <Label Text="WhatsApp"
-                          FontSize="Medium"
+            <Label Text="WhatsApp"
+                          FontSize="Large"
                           FontAttributes="Bold"/>
-        <BoxView Color="White"
+            <BoxView Color="White"
                                    HeightRequest="2"
-                                   HorizontalOptions="Fill"/>
-            </StackLayout>
+                                   HorizontalOptions="Fill"/>               
+                    
+                    
+              
+              
+                                                            
+        </StackLayout>
     </Frame>
+    
 </ContentPage>
+    <ContentPage>
+        
+    <ContentPage>
+        <Chat>
+            <Label Text="Chat Bot"
+                   Padding="2" />                  
+        < Button="Chatbot"
+               Image="mario.png"/>
+                
+                <Label Text="Person"
+                       Padding="2"/>                      
+        < Button="Person"
+               Image="Banana.png"/>
+            </Chat>
+        </ContentPage>
+    
+               
+           
+               

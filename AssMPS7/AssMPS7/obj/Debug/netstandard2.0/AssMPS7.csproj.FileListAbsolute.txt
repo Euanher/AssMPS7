@@ -15,3 +15,4 @@ C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.csproj.CopyC
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.dll
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\ref\AssMPS7.dll
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.pdb
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7\obj\Debug\netstandard2.0\AssMPS7.csprojAssemblyReference.cache

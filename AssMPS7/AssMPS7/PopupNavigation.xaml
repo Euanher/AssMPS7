@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"               
+             x:Class="AssMPS7.MainPage" 
+             
+           
+        <PopupPage>
+            <PopupPage.Animation>
+                <animations:ScaleAnimation   
+                      PositionIn="Center"  
+                      PositionOut="Center"  
+                      ScaleIn="1.2"  
+                      ScaleOut="0.8"  
+                      DurationIn="400"  
+                      DurationOut="300"  
+                      EasingIn="SinOut"  
+                      EasingOut="SinIn"  
+      HasBackgroundAnimation="False"/>
+            </PopupPage.Animation>
+            <StackLayout VerticalOptions="Center"  Padding="20,0" HorizontalOptions="FillAndExpand" >
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="ArmyGreen" >
+                    <StackLayout Padding="10">
+                        <Label Text="First Popup Page" TextColor="Black" FontSize="20" HorizontalOptions="Center">
+                        </Label>
+                        <ScrollView>
+                            <StackLayout>
+                                <Label Text="YES!" TextColor="Red"/>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="The Force is Strong" TextColor="Black"/>
+                                    <Button Text="Close" TextColor="Black" Clicked="Button_Clicked" >
+                                    </Button>
+                                </StackLayout>
+                            </StackLayout>
+                        </ScrollView>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </PopupPage>                
+    <StackLayout>
+        <Label Text="Pop Up Demo" Font="Bold,24"  
+                VerticalOptions="CenterAndExpand"   
+                HorizontalOptions="CenterAndExpand" />
+        <Button VerticalOptions="StartAndExpand"   
+                HorizontalOptions="CenterAndExpand"   
+                    Text="Popup"  
+                    Font="Bold,20"  
+                    Clicked="Button_Clicked"  
+                    BackgroundColor="Aqua"/>
+    </StackLayout>

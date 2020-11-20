@@ -494,3 +494,6 @@ C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\stamp\_ConvertResourcesC
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\res\drawable\background.png
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\res\drawable\banana.png
+C:\AssMPS7\AssMPS7\AssMPS7\AssMPS7.Android\obj\Debug\90\res\drawable\mario.png
